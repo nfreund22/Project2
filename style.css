@@ -96,3 +96,15 @@ p {
 .dropdown3:hover .dropdown3-content {
   display: block;
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%; 
+  }
+}
