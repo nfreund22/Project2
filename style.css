@@ -129,3 +129,10 @@ p {
   width: 100%;
   height: auto;
 }
+
+.resumediv {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+}
